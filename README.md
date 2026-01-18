@@ -41,6 +41,8 @@ Maps, bar charts, scatter plots, donut charts, line charts, combo charts, gauge 
 - Focus: Long-term progress and goal tracking
 - Visuals: YoY growth table, gauge chart, line chart
 - Key Insight: Measures progress toward global education goals and identifies gaps
+- [Trend_Analysis]<img width="1208" height="625" alt="Trend Analysis" src="https://github.com/user-attachments/assets/5a536765-11d5-40d7-8302-c1bdbc5014c4" />
+
 
 
 ## Dataset Information
