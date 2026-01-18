@@ -74,26 +74,7 @@ Filters and navigation buttons allow users to drill down into specific countries
 Visuals like gauge charts and YoY growth tables emphasize progress tracking and accountability.
 
 ### - Business Intelligence Skills:
-Demonstrates proficiency in Power BI, DAX, Excel data cleaning, and dashboard design tailored for decision-makers.
-
-
-## File Structure
-/FemaleCompletionRateDashboards
-│
-├── data/
-│   └── female_completion_rate.xlsx
-├── dashboards/
-│   ├── Country_Level_Analysis.pbix
-│   ├── Income_Wise_Analysis.pbix
-│   ├── Region_Wise_Analysis.pbix
-│   └── Trend_Analysis.pbix
-├── images/
-│   ├── country_dashboard.png
-│   ├── income_dashboard.png
-│   ├── region_dashboard.png
-│   └── trend_dashboard.png
-└── README.md
-
+Demonstrates proficiency in Power BI, DAX, Excel data cleaning, and dashboard design tailored for decision-maker.
 
 
 ## About the Creator
