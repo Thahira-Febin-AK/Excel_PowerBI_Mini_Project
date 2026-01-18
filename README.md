@@ -93,4 +93,4 @@ Demonstrates proficiency in Power BI, DAX, Excel data cleaning, and dashboard de
 
 ## About the Creator
 
-This Dashboard is created by Thahira, a passionate data analyst with a strong focus on Power BI storytelling, DAX mastery, and business impact. Her dashboards reflect a commitment to clarity, purpose-driven design, and empowering stakeholders with actionable insights.
+This Dashboard is created by Thahira Febin AK, a passionate data analyst with a strong focus on Power BI storytelling, DAX mastery, and business impact. Her dashboards reflect a commitment to clarity, purpose-driven design, and empowering stakeholders with actionable insights.
