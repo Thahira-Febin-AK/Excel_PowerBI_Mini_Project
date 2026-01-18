@@ -1,14 +1,22 @@
 #Female Primary Completion Rate – Power BI Dashboard 
+
 ##Overview
 This presents a comprehensive analysis of female primary education completion rates across countries, income groups, regions, and time periods from 1970 to 2023.
 The project combines Excel for data cleaning and preparation with Power BI for visualization and storytelling, resulting in four interconnected dashboards that explore global disparities, socio-economic influences, and progress toward educational goals.
 
 ##Tools & Workflow
-- ###Excel: Data cleaning, formatting, handling missing values, and preparing structured datasets.
-- ###Power BI Desktop: Dashboard creation, DAX measures, interactive visuals, and storytelling.
-- ###Visuals Used: Maps, bar charts, scatter plots, donut charts, line charts, combo charts, gauge charts, and tables.
+
+###- Excel:
+Data cleaning, formatting, handling missing values, and preparing structured datasets.
+
+###- Power BI Desktop: 
+Dashboard creation, DAX measures, interactive visuals, and storytelling.
+
+###- Visuals Used: 
+Maps, bar charts, scatter plots, donut charts, line charts, combo charts, gauge charts, and tables.
 
 ##Dashboard Collection
+
 ###1. Country-Level Analysis
 - Focus: Completion rates by country and country code
 - Visuals: World map, bar chart, scatter plot, combo chart
