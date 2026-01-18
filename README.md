@@ -23,6 +23,9 @@ Maps, bar charts, scatter plots, donut charts, line charts, combo charts, gauge 
 - Focus: Completion rates by country and country code
 - Visuals: World map, bar chart, scatter plot, combo chart
 - Key Insight: Reveals geographic disparities and highlights top-performing countries
+- [Country Level_Analysis](images/<img width="1300" height="552" alt="country level analysis " src="https://github.com/user-attachments/assets/456b6489-81f7-4eaf-8d5a-8b6fdccab20b" />)
+
+
 
 ### 2. Income-Wise Analysis
 - Focus: Completion rates segmented by income group
