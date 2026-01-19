@@ -56,7 +56,7 @@ The dashboards are powered by the Female Primary Completion Rate dataset (1970â€
 - Source: Compiled from global education statistics (UN Educational, Scientific and Cultural Organization ( UNESCO ))
 - Preparation: Cleaned and structured in Excel before importing into Power BI
    Download the raw dataset here > [https://api.worldbank.org/v2/en/indicator/SE.PRM.CMPT.FE.ZS?downloadformat=excel]
-  Download the cleaned dataset here <(./miniprojectfile.xslx)
+  Download the cleaned dataset here <[https://github.com/Thahira-Febin-AK/Excel_PowerBI_Mini_Project/blob/main/Mini%20Project%20File.xlsx]>
 
 
 ## Guiding Questions
