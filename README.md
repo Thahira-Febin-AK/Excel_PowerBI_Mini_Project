@@ -1,4 +1,4 @@
-# Female Primary Completion Rate – Power BI Dashboard 
+# Global Progress In Girl's Primary School Completion Rate – Power BI Dashboard 
 
 ## Overview
 This presents a comprehensive analysis of female primary education completion rates across countries, income groups, regions, and time periods from 1970 to 2023.
@@ -52,7 +52,7 @@ The dashboards are powered by the Female Primary Completion Rate dataset (1970�
 
 ### Dataset Details:
 - Rows: 4,000+
-- Columns: Country, Country Code, Year, Completion Rate, Income Group, Region
+- Columns: Country Name, Country Code, Year, Value(means Compltion Rate), Income Group, Region,Indicator Code
 - Source: Compiled from global education statistics (UN Educational, Scientific and Cultural Organization ( UNESCO ))
 - Preparation: Cleaned and structured in Excel before importing into Power BI
    Download the raw dataset here > [https://api.worldbank.org/v2/en/indicator/SE.PRM.CMPT.FE.ZS?downloadformat=excel]
