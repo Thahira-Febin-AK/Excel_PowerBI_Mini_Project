@@ -36,6 +36,8 @@ Maps, bar charts, scatter plots, donut charts, line charts, combo charts, gauge 
 - Focus: Completion rates across global regions over time
 - Visuals: Line chart, map view, data table, bar chart
 - Key Insight: Tracks regional trends and compares performance across continents
+- [Region_Analysis]<img width="1273" height="540" alt="Region wise analysis" src="https://github.com/user-attachments/assets/60f9ed74-4275-4289-9a03-40f50f2e4489" />
+
 
 ### 4. Trend Analysis
 - Focus: Long-term progress and goal tracking
