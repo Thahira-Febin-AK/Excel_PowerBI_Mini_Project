@@ -25,12 +25,12 @@ Maps, bar charts, scatter plots, donut charts, line charts, combo charts, gauge 
 - Key Insight: Reveals geographic disparities and highlights top-performing countries
 - [Country Level_Analysis]<img width="1300" height="552" alt="country level analysis " src="https://github.com/user-attachments/assets/456b6489-81f7-4eaf-8d5a-8b6fdccab20b" />
 
-
-
 ### 2. Income-Wise Analysis
 - Focus: Completion rates segmented by income group
 - Visuals: Bar chart, donut chart, map view
 - Key Insight: Shows how economic classification correlates with educational outcomes
+- [Income_Analysis]<img width="1277" height="668" alt="Income wise analysis" src="https://github.com/user-attachments/assets/ad554e43-93c0-4fab-b6e9-af0ff8063b2d" />
+
 
 ### 3. Region-Wise Analysis
 - Focus: Completion rates across global regions over time
